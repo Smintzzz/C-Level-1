@@ -6,9 +6,9 @@
 
 GIT
 
-команда для добавления репозитория по ssh						git remote add github git@github.com:Smintzzz/Smintz.git 	
-команда для добавления репозитория по https						git clone git@github.com:Smintzzz/Smintz.git 				
-добавленая команда в альяс обозначающая вывод статистики		git gg 
+Команда для добавления репозитория по ssh						git remote add github git@github.com:Smintzzz/Smintz.git 	
+Команда для добавления репозитория по https						git clone git@github.com:Smintzzz/Smintz.git 				
+Добавленая в альяс команда обозначающая вывод статистики		git gg 
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
