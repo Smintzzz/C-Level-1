@@ -1,0 +1,6 @@
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\obj\Debug\format.csprojAssemblyReference.cache
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\bin\Debug\format.exe.config
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\bin\Debug\format.exe
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\bin\Debug\format.pdb
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\obj\Debug\format.exe
+C:\Users\hackm\OneDrive\Рабочий стол\Education\C# Уровень 1\Lesson1\format\obj\Debug\format.pdb
